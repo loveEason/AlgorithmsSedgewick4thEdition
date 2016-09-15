@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f233145-8588-4f9f-a993-fcf6538908ed" name="Default" comment="" />
+    <list default="true" id="6f233145-8588-4f9f-a993-fcf6538908ed" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/ErdosRenyi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/QuickUnionPathCompressionUF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionByHeightUF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionPathCompressionUF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/DequeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Insertion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/PokerDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Selection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Shell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/SortCompare.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Bag$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Bag$BagIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Bag$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Bag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Deque$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Deque$IteratorDeque.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Deque$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Deque.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Double_Linked_List$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Double_Linked_List$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Double_Linked_List.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Evaluate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/FileList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/FixedCapacityStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Josephus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Linked_List$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Linked_List$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Linked_List.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/MoveToFront$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/MoveToFront$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/MoveToFront$tmpIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/MoveToFront.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Queue$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Queue$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Queue$QueueIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Queue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/RandomBag$BagIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/RandomBag.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Rational.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ResizingArrayQueueOfStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ResizingArrayStack$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ResizingArrayStack$ReverseArrayIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ResizingArrayStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/RingBuffer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/RingBuffer$BufferIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/RingBuffer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Stack$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Stack$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Stack$StackIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Stack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Stats.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Steque$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Steque$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/Steque.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ThreeSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/ThreeSumFast.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/TwoSumFast.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/UF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/AlgorithmPractice/com/company/WeightedQuickUnionUF.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/company/Steque.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/company/UF.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Bag.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Bag.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Deque.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Deque.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Double_Linked_List.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Double_Linked_List.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Evaluate.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Evaluate.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/FileList.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FileList.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/FixedCapacityStack.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FixedCapacityStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Josephus.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Josephus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Linked_List.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Linked_List.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/MoveToFront.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/MoveToFront.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Queue.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Queue.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/RandomBag.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RandomBag.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Rational.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_2_DataAbstraction/Rational.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/ResizingArrayQueueOfStrings.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayQueueOfStrings.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/ResizingArrayStack.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/RingBuffer.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RingBuffer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Stack.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/Stats.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stats.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/ThreeSum.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/ThreeSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/ThreeSumFast.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/ThreeSumFast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/TwoSum.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/TwoSum.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/TwoSumFast.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/TwoSumFast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/company/WeightedQuickUnionUF.java" afterPath="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionUF.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="AlgorithmPractice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,11 +107,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="Selection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Selection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7596">
-              <caret line="425" column="29" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
+            <state relative-caret-position="106">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -33,112 +119,110 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UF.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/UF.java">
+      <file leaf-file-name="Insertion.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Insertion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeightedQuickUnionUF.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/WeightedQuickUnionUF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-              <folding>
-                <element signature="e#491#492#0" expanded="true" />
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwoSumFast.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/TwoSumFast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/FileList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-              <folding>
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Evaluate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Evaluate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Linked_List.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Linked_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1836">
-              <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+            <state relative-caret-position="-288">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Stack.java">
+      <file leaf-file-name="SortCompare.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/SortCompare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="180">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
-                <element signature="e#602#603#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#685#686#0" expanded="true" />
-                <element signature="e#713#714#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PokerDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/PokerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+              <folding>
+                <element signature="e#1046#1047#0" expanded="true" />
+                <element signature="e#1088#1089#0" expanded="true" />
+                <element signature="e#5719#5720#0" expanded="true" />
+                <element signature="e#5769#5770#0" expanded="true" />
+                <element signature="e#5844#5845#0" expanded="true" />
+                <element signature="e#5894#5895#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DequeSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/DequeSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Double_Linked_List.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Double_Linked_List.java">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Double_Linked_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
+      <file leaf-file-name="Evaluate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Evaluate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="144">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shell.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Shell.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+              <folding>
+                <element signature="e#236#237#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickUnionPathCompressionUF.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/QuickUnionPathCompressionUF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="66" selection-end-column="5" />
+              <folding>
+                <element signature="e#483#484#0" expanded="false" />
+                <element signature="e#511#512#0" expanded="false" />
+                <element signature="e#826#827#0" expanded="false" />
+                <element signature="e#867#868#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Rational.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_2_DataAbstraction/Rational.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -153,6 +237,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -161,33 +248,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Rational.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Stats.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Evaluate.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ResizingArrayStack.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Bag.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FixedCapacityStack.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ResizingArrayQueueOfStrings.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Linked_List.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Double_Linked_List.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Steque.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Deque.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/com/company/TwoSumFast.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ThreeSumFast.java" />
-        <option value="$PROJECT_DIR$/src/com/company/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RandomBag.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Josephus.java" />
-        <option value="$PROJECT_DIR$/src/com/company/RingBuffer.java" />
-        <option value="$PROJECT_DIR$/src/com/company/MoveToFront.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Queue.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Stack.java" />
-        <option value="$PROJECT_DIR$/src/com/company/FileList.java" />
-        <option value="$PROJECT_DIR$/src/com/company/LocalMin.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/UF.java" />
         <option value="$PROJECT_DIR$/src/com/company/WeightedQuickUnionUF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Queue.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/QuickUnionPathCompressionUF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionUF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/UF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/FixedCapacityStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Evaluate.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/ResizingArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Queue.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Bag.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Bag.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/ResizingArrayQueueOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayQueueOfStrings.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Deque.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Deque.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/RandomBag.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Josephus.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Josephus.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/RingBuffer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RingBuffer.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/MoveToFront.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/MoveToFront.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/FileList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FileList.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Stats.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stats.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Steque.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Double_Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Double_Linked_List.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/TwoSum.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/TwoSumFast.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/TwoSumFast.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Rational.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_2_DataAbstraction/Rational.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionPathCompressionUF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionByHeightUF.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/ErdosRenyi.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RandomBag.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Selection.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Insertion.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Shell.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/SortCompare.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/PokerDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/DequeSort.java" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -220,8 +339,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -277,8 +394,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Section2_1_ElementarySorts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgorithmPractice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Chapter1_Fundamentals" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,32 +456,15 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeightedQuickUnionUF">
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmPractice" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Evaluate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.PokerDemo">
+    <configuration default="false" name="Selection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Evaluate" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.Selection" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -331,14 +477,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Josephus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Insertion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Josephus" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.Insertion" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -351,16 +497,16 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="UF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="SortCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.UF" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.SortCompare" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="10" />
+      <option name="PROGRAM_PARAMETERS" value="Insertion Selection 1000 100" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -371,14 +517,34 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="WeightedQuickUnionUF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Shell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.WeightedQuickUnionUF" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.Shell" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PokerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_1_ElementarySorts.PokerDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -614,19 +780,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Evaluate" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Josephus" />
-      <item index="3" class="java.lang.String" itemvalue="Application.UF" />
-      <item index="4" class="java.lang.String" itemvalue="Application.WeightedQuickUnionUF" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Selection" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Insertion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.SortCompare" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Shell" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PokerDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.WeightedQuickUnionUF" />
-        <item index="1" class="java.lang.String" itemvalue="Application.UF" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Josephus" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Evaluate" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PokerDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SortCompare" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Selection" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Shell" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Insertion" />
       </list>
     </recent_temporary>
   </component>
@@ -652,18 +818,17 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32578617" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3248" sideWeight="0.49707174" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25786164" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25346786" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2361111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22361112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -674,6 +839,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -698,114 +864,35 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Evaluate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FixedCapacityStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FixedCapacityStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ResizingArrayStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
           <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="954">
           <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Bag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Evaluate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FixedCapacityStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ResizingArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Bag.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Bag.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
           <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
@@ -829,7 +916,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Rational.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_2_DataAbstraction/Rational.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -894,184 +981,109 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Bag.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/LocalMin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionUF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="126">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FixedCapacityStack.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FixedCapacityStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ResizingArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ResizingArrayQueueOfStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Rational.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Steque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ThreeSumFast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Josephus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/RandomBag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/RingBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Deque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="100" column="35" selection-start-line="100" selection-start-column="35" selection-end-line="100" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/MoveToFront.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-          <folding>
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#1481#1482#0" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-            <element signature="e#1672#1673#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-          <folding>
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Linked_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1836">
-          <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Evaluate.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Double_Linked_List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/FileList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-          <folding>
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/LocalMin.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Bag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayQueueOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Josephus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RingBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/MoveToFront.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/FileList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Steque.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7596">
+        <state relative-caret-position="236">
           <caret line="425" column="29" selection-start-line="425" selection-start-column="29" selection-end-line="425" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1079,37 +1091,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/TwoSumFast.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/ThreeSumFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_4_AnalysisOfAlgorithms/TwoSumFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/UF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionByHeightUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
+          <folding>
+            <element signature="e#542#543#0" expanded="false" />
+            <element signature="e#570#571#0" expanded="false" />
+            <element signature="e#938#939#0" expanded="false" />
+            <element signature="e#979#980#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/ErdosRenyi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RandomBag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="44" column="30" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#389#390#0" expanded="false" />
+            <element signature="e#416#417#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
+            <element signature="e#464#465#0" expanded="false" />
+            <element signature="e#823#824#0" expanded="false" />
+            <element signature="e#863#864#0" expanded="false" />
+            <element signature="e#1128#1129#0" expanded="false" />
+            <element signature="e#1162#1163#0" expanded="false" />
+            <element signature="e#1210#1211#0" expanded="false" />
+            <element signature="e#1249#1250#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/WeightedQuickUnionPathCompressionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="1" selection-start-line="72" selection-start-column="1" selection-end-line="88" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/QuickUnionPathCompressionUF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="66" selection-end-column="5" />
+          <folding>
+            <element signature="e#483#484#0" expanded="false" />
+            <element signature="e#511#512#0" expanded="false" />
+            <element signature="e#826#827#0" expanded="false" />
+            <element signature="e#867#868#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_2_DataAbstraction/Rational.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Shell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/WeightedQuickUnionUF.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Insertion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+        <state relative-caret-position="-288">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/SortCompare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
-            <element signature="e#491#492#0" expanded="true" />
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/UF.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/PokerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="360">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          <folding>
+            <element signature="e#1046#1047#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#5719#5720#0" expanded="true" />
+            <element signature="e#5769#5770#0" expanded="true" />
+            <element signature="e#5844#5845#0" expanded="true" />
+            <element signature="e#5894#5895#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Evaluate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Double_Linked_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/DequeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
           </folding>
         </state>
       </provider>
