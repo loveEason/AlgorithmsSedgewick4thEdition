@@ -41,11 +41,18 @@ public class Queue<Item> implements Iterable<Item> {
         else oldlast.next = last;
         n++;
     }
+
     public Item dequeue() {
         Item item = first.item;
         first = first.next;
         if(isEmpty()) last = null;
         n--;
+        return item;
+    }
+
+    //返回队首元素但不出列
+    public Item head() {
+        Item item = first.item;
         return item;
     }
 

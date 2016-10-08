@@ -2,8 +2,7 @@ package com.company;
 
 import edu.princeton.cs.algs4.*;
 
-import java.util.Random;
-import java.util.Scanner;
+import java.util.*;
 
 public class Main {
 
@@ -422,8 +421,27 @@ public class Main {
 //        fileList.show();
 
         //1.4.18
-        int[] a = new int[]{1,2,3,5,4,2,3,1,4,2,5};
-        localMin(a,a.length);
+//        int[] a = new int[]{1,2,3,5,4,2,3,1,4,2,5};
+//        localMin(a,a.length);
+
+        //2.1.16
+//        Scanner scanner = new Scanner(System.in);
+//        String read = scanner.nextLine();
+//        String[] strings = read.split(" ");
+//        int n = strings.length;
+//        Integer[] array = new Integer[n];
+//        int i = 0;
+//        for (String s : strings) {
+//            array[i] = Integer.parseInt(s);
+//            i++;
+//        }
+//        ArrayList<Integer> arrayList = new ArrayList<Integer>(Arrays.asList(array));
+//
+//        if (check(arrayList)) {
+//            System.out.println("true");
+//        }else System.out.println("false");
+
+
     }
 
     public static void printBoolenBinary(Boolean[][] array,int i,int j) {
@@ -504,5 +522,20 @@ public class Main {
             n = n/2+1;
             localMin(a,n);
         }
+    }
+
+    public static boolean check(ArrayList<?> arrayList) {
+        int n = arrayList.size();
+        HashMap<Integer, Object> hashMap = new HashMap<>();
+        for (int i=0;i<n;i++) {
+            hashMap.put(i, arrayList.get(i));
+        }
+        arrayList.sort(null);
+        for (int i=0;i<n;i++) {
+            if (!arrayList.get(i).equals(hashMap.get(i))) {
+                return false;
+            }
+        }
+        return true;
     }
 }

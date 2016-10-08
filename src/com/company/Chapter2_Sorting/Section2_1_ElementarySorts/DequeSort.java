@@ -29,6 +29,17 @@ public class DequeSort {
         a[w] = tmp;
     }
 
+    public static void moveQueue(int[] a,int times) {
+        int n = a.length;
+        for (int i=0;i<times;i++) {
+            int tmp = a[0];
+            for (int j=0;j<n-1;j++) {
+                a[j] = a[j + 1];
+            }
+            a[n - 1] = tmp;
+        }
+    }
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String read = scanner.nextLine();
@@ -40,6 +51,19 @@ public class DequeSort {
         for (String s : strings) {
             array[i] = Integer.parseInt(s);
             i++;
+        }
+
+        for (int j = 1; j < n; j++) {
+            for (int k = 0; k < n - j; k++) {
+                if (bigger(array, 0, 1)) {
+                    exch(array, 0, 1);
+                }
+                moveQueue(array,1);
+            }
+            moveQueue(array,j);
+        }
+        for (int m : array) {
+            System.out.print(m+" ");
         }
     }
 }

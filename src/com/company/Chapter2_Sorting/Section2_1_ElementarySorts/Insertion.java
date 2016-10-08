@@ -42,11 +42,38 @@ public class Insertion {
 
     //排序
     public static void sort(Comparable[] a) {
+//        int n = a.length;
+//        for (int i=1;i<n;i++) {
+//            for (int j=i;j>0 && less(a[j],a[j-1]);j--) {
+//                exch(a,j,j-1);
+//            }
+//        }
+
+        /*
+         * 哨兵
+         * 先找出最小的元素并将其置于数组的最左边，
+         * 这样就能去掉内循环的条件j>0
+         */
         int n = a.length;
-        for (int i=1;i<n;i++) {
-            for (int j=i;j>0 && less(a[j],a[j-1]);j--) {
-                exch(a,j,j-1);
+        int exchanges = 0;
+        for (int i=n-1;i>0;i--) {
+            if (less(a[i], a[i - 1])) {
+                exch(a, i, i - 1);
+                exchanges++;
             }
+        }
+        if (exchanges == 0) {
+            return;
+        }
+
+        for (int i=2;i<n;i++) {
+            Comparable v = a[i];
+            int j = i;
+            while (less(v, a[j - 1])) {
+                a[j] = a[j - 1];
+                j--;
+            }
+            a[j] = v;
         }
     }
 

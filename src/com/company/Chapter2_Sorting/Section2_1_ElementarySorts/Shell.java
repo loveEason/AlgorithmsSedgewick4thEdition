@@ -1,5 +1,6 @@
 package com.company.Chapter2_Sorting.Section2_1_ElementarySorts;
 
+import java.util.Random;
 import java.util.Scanner;
 
 /**
@@ -55,9 +56,16 @@ public class Shell {
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        String read = scanner.nextLine();
-        String[] a = read.split(" ");
+//        Scanner scanner = new Scanner(System.in);
+//        String read = scanner.nextLine();
+//        String[] a = read.split(" ");
+
+        Integer[] a = new Integer[100];
+        Random random = new Random();
+        for (int i=0;i<100;i++) {
+            a[i] = random.nextInt(100)+1;
+        }
+
         sort(a);
         assert isSorted(a);
         show(a);
