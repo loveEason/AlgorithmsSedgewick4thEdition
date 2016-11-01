@@ -42,7 +42,7 @@ public class Merge {
 
 
     private static void sort(Comparable[] a, Comparable[] aux, int lo, int hi) {
-        //将数组ea[lo...hi]排序
+        //将数组a[lo...hi]排序
         if (hi <= lo) {
             return;
         }
