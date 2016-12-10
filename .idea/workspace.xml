@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f233145-8588-4f9f-a993-fcf6538908ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/ArrayST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/BinarySearchST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/FrequencyCounter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/GPA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/SequentialSearchST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/TestBinarySearchST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/BST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/NonrecursiveBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/PerfectBalance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestBST.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestNonRecurBST.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AlgorithmPractice.iws" />
@@ -32,7 +31,7 @@
       <file leaf-file-name="SequentialSearchST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/SequentialSearchST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2070">
+            <state relative-caret-position="1962">
               <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -45,73 +44,108 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GPA.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/GPA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ArrayST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/ArrayST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="486">
               <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
-                <element signature="e#642#643#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#558#559#0" expanded="false" />
+                <element signature="e#581#582#0" expanded="false" />
+                <element signature="e#613#614#0" expanded="false" />
+                <element signature="e#642#643#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-666">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FrequencyCounter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/FrequencyCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/BinarySearchST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="2718">
               <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
               <folding>
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#601#602#0" expanded="true" />
-                <element signature="e#1083#1084#0" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
-                <element signature="e#2309#2310#0" expanded="true" />
-                <element signature="e#2339#2340#0" expanded="true" />
-                <element signature="e#2363#2364#0" expanded="true" />
-                <element signature="e#2397#2398#0" expanded="true" />
-                <element signature="e#2442#2443#0" expanded="true" />
-                <element signature="e#2472#2473#0" expanded="true" />
-                <element signature="e#3953#3954#0" expanded="true" />
-                <element signature="e#4002#4003#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="false" />
+                <element signature="e#552#553#0" expanded="false" />
+                <element signature="e#577#578#0" expanded="false" />
+                <element signature="e#601#602#0" expanded="false" />
+                <element signature="e#1083#1084#0" expanded="false" />
+                <element signature="e#1112#1113#0" expanded="false" />
+                <element signature="e#2309#2310#0" expanded="false" />
+                <element signature="e#2339#2340#0" expanded="false" />
+                <element signature="e#2363#2364#0" expanded="false" />
+                <element signature="e#2397#2398#0" expanded="false" />
+                <element signature="e#2442#2443#0" expanded="false" />
+                <element signature="e#2472#2473#0" expanded="false" />
+                <element signature="e#3953#3954#0" expanded="false" />
+                <element signature="e#4002#4003#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/BST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="451" column="35" selection-start-line="451" selection-start-column="35" selection-end-line="451" selection-end-column="35" />
+              <folding>
+                <element signature="e#2375#2376#0" expanded="true" />
+                <element signature="e#2419#2420#0" expanded="true" />
+                <element signature="e#9173#9174#0" expanded="true" />
+                <element signature="e#9214#9215#0" expanded="true" />
+                <element signature="e#9791#9792#0" expanded="true" />
+                <element signature="e#9841#9842#0" expanded="true" />
+                <element signature="e#10311#10312#0" expanded="true" />
+                <element signature="e#10355#10356#0" expanded="true" />
+                <element signature="e#10760#10761#0" expanded="true" />
+                <element signature="e#10794#10795#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonrecursiveBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/NonrecursiveBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectBalance.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/PerfectBalance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNonRecurBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestNonRecurBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,7 +153,7 @@
       <file leaf-file-name="TestBinarySearchST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/TestBinarySearchST.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
+            <state relative-caret-position="648">
               <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
               <folding />
             </state>
@@ -129,28 +163,8 @@
       <file leaf-file-name="Merge.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_2_MergeSort/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
+            <state relative-caret-position="1026">
               <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quick.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_3_QuickSort/Quick.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ResizingArrayStack.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -176,11 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_5_CaseStudy/ErdosRenyi.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/RandomBag.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/PokerDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/DequeSort.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Shell.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Insertion.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/SortCompare.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_1_ElementarySorts/Selection.java" />
@@ -227,6 +236,11 @@
         <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/ArrayST.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/TestBinarySearchST.java" />
         <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/BinarySearchST.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestBST.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/NonrecursiveBST.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestNonRecurBST.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/PerfectBalance.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/BST.java" />
       </list>
     </option>
   </component>
@@ -267,8 +281,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -347,7 +361,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -362,67 +376,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestBinarySearchST">
-    <configuration default="false" name="StableMinPQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_5_SortingApplications.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_5_SortingApplications.StableMinPQ" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmPractice" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="FileSorter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.Chapter2_Sorting.Section2_5_SortingApplications.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter2_Sorting.Section2_5_SortingApplications.FileSorter" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="$USER_HOME$" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmPractice" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="GPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.company.Chapter3_Searching.Section3_1_SymbolTables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3_Searching.Section3_1_SymbolTables.GPA" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="AlgorithmPractice" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.PerfectBalance">
     <configuration default="false" name="ArrayST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -451,6 +405,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.Chapter3_Searching.Section3_1_SymbolTables.TestBinarySearchST" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.TestBST" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestNonRecurBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.TestNonRecurBST" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="AlgorithmPractice" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="PerfectBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.company.Chapter3_Searching.Section3_2_BinarySearchTrees.PerfectBalance" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -728,19 +742,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.QuickBest" />
       <item index="1" class="java.lang.String" itemvalue="Application.FrequencyCounter" />
-      <item index="2" class="java.lang.String" itemvalue="Application.StableMinPQ" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FileSorter" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GPA" />
-      <item index="5" class="java.lang.String" itemvalue="Application.ArrayST" />
-      <item index="6" class="java.lang.String" itemvalue="Application.TestBinarySearchST" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ArrayST" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestBinarySearchST" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestBST" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestNonRecurBST" />
+      <item index="6" class="java.lang.String" itemvalue="Application.PerfectBalance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestBinarySearchST" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ArrayST" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GPA" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FileSorter" />
-        <item index="4" class="java.lang.String" itemvalue="Application.StableMinPQ" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PerfectBalance" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestNonRecurBST" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestBST" />
+        <item index="3" class="java.lang.String" itemvalue="Application.TestBinarySearchST" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ArrayST" />
       </list>
     </recent_temporary>
   </component>
@@ -840,41 +854,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7866">
-          <caret line="439" column="33" selection-start-line="439" selection-start-column="33" selection-end-line="439" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/下载/JDK8/jdk1.8.0_102/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="138" column="8" selection-start-line="138" selection-start-column="8" selection-end-line="138" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_4_PriorityQueues/IndexMaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="83" column="16" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_4_PriorityQueues/MaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1719">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_4_PriorityQueues/OrderedArrayMaxPQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_4_PriorityQueues/UnorderedArrayMaxPQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1049,9 +1028,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1060,9 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1070,9 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="864">
           <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1080,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1782">
           <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1088,7 +1057,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1106,9 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1116,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2844">
           <caret line="170" column="0" selection-start-line="170" selection-start-column="0" selection-end-line="170" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,9 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1134,7 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-24">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,13 +1102,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="344">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-666">
+        <state relative-caret-position="144">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
@@ -1156,17 +1115,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_3_QuickSort/Quick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="1242">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="0" selection-end-line="80" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/GPA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
+        <state relative-caret-position="468">
           <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1174,13 +1131,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter1_Fundamentals/Section1_3_BagsQueuesStacks/ResizingArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="306">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
@@ -1188,21 +1144,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/ArrayST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="486">
           <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#558#559#0" expanded="false" />
+            <element signature="e#581#582#0" expanded="false" />
+            <element signature="e#613#614#0" expanded="false" />
+            <element signature="e#642#643#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter2_Sorting/Section2_2_MergeSort/Merge.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="1026">
           <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
           <folding />
         </state>
@@ -1210,7 +1166,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/TestBinarySearchST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
+        <state relative-caret-position="648">
           <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding />
         </state>
@@ -1218,7 +1174,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/SequentialSearchST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
+        <state relative-caret-position="1962">
           <caret line="115" column="21" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1232,23 +1188,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_1_SymbolTables/BinarySearchST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="2718">
           <caret line="163" column="27" selection-start-line="163" selection-start-column="27" selection-end-line="163" selection-end-column="27" />
           <folding>
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#601#602#0" expanded="true" />
-            <element signature="e#1083#1084#0" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#2309#2310#0" expanded="true" />
-            <element signature="e#2339#2340#0" expanded="true" />
-            <element signature="e#2363#2364#0" expanded="true" />
-            <element signature="e#2397#2398#0" expanded="true" />
-            <element signature="e#2442#2443#0" expanded="true" />
-            <element signature="e#2472#2473#0" expanded="true" />
-            <element signature="e#3953#3954#0" expanded="true" />
-            <element signature="e#4002#4003#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="false" />
+            <element signature="e#552#553#0" expanded="false" />
+            <element signature="e#577#578#0" expanded="false" />
+            <element signature="e#601#602#0" expanded="false" />
+            <element signature="e#1083#1084#0" expanded="false" />
+            <element signature="e#1112#1113#0" expanded="false" />
+            <element signature="e#2309#2310#0" expanded="false" />
+            <element signature="e#2339#2340#0" expanded="false" />
+            <element signature="e#2363#2364#0" expanded="false" />
+            <element signature="e#2397#2398#0" expanded="false" />
+            <element signature="e#2442#2443#0" expanded="false" />
+            <element signature="e#2472#2473#0" expanded="false" />
+            <element signature="e#3953#3954#0" expanded="false" />
+            <element signature="e#4002#4003#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestNonRecurBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/NonrecursiveBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="179" column="27" selection-start-line="179" selection-start-column="27" selection-end-line="179" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/TestBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/PerfectBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Chapter3_Searching/Section3_2_BinarySearchTrees/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="451" column="35" selection-start-line="451" selection-start-column="35" selection-end-line="451" selection-end-column="35" />
+          <folding>
+            <element signature="e#2375#2376#0" expanded="true" />
+            <element signature="e#2419#2420#0" expanded="true" />
+            <element signature="e#9173#9174#0" expanded="true" />
+            <element signature="e#9214#9215#0" expanded="true" />
+            <element signature="e#9791#9792#0" expanded="true" />
+            <element signature="e#9841#9842#0" expanded="true" />
+            <element signature="e#10311#10312#0" expanded="true" />
+            <element signature="e#10355#10356#0" expanded="true" />
+            <element signature="e#10760#10761#0" expanded="true" />
+            <element signature="e#10794#10795#0" expanded="true" />
           </folding>
         </state>
       </provider>
